@@ -1,6 +1,6 @@
 === picBox Image Uploader ===
 
-Contributors: Kyle Smith, Kevin Smith, 
+Contributors:NegaCommando
 Donate link: https://picbox.us/index.php?p=donate
 Tags: picBox
 Requires at least: 3.0 (untested before 3.5, but should work with most older versions, as its functions are simple)
