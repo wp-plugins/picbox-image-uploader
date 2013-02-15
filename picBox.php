@@ -13,8 +13,8 @@ function picBox_uploader(){
 echo '		
             <div align="center">
             <p id="upload"><h3 class="media-title">Upload images to picBox.us</h3></p>
-			<iframe src="https://picbox.us/iframe_mini.php?mini=2" width="510" height="75" scrolling="no" frameborder="0" allowtransparency="true" </iframe>';
-            </div>
+			<iframe src="https://picbox.us/iframe_mini.php?mini=2" width="510" height="75" scrolling="no" frameborder="0" allowtransparency="true" </iframe></div>';
+            
 }
 add_action('post-upload-ui', 'picBox_uploader');
 
