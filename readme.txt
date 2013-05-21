@@ -21,6 +21,7 @@ N/A
 0.1b; Removed an additional "<", which was causing an "Unexpected output" error.
 0.1c; Removed additional tags from the iframe which may be causing issues.
 0.1d/0.1.4; Centered the iframe, switched to a fully numerical versioning system.
+1.0.0; changed a bunch of stuff, mainly the iframe 
 
 == Upgrade Notice ==
 This plugin should not need to be updated with WordPress, as its functions are simple. Most updates will be addition of features.
