@@ -2,7 +2,7 @@
 /*
  Info for WordPress:
  ==============================================================================
- Plugin Name: picBox Image Uploader
+ Plugin Name: picBox.us Image Uploader
  Plugin URI: http://picbox.us
  Description: Upload images to picBox in  a post
  Version: 1.1

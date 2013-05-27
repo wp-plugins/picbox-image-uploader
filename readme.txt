@@ -1,8 +1,8 @@
-=== picBox Image Uploader ===
+=== picBox.us Image Uploader ===
 
 Contributors:NegaCommando
 Donate link: https://picbox.us/index.php?p=donate
-Tags: picBox
+Tags: picBox.us
 Requires at least: 3.0 (untested before 3.5, but should work with most older versions, as its functions are simple)
 
 Tested up to: 3.5.1
@@ -22,9 +22,9 @@ N/A
 0.1c; Removed additional tags from the iframe which may be causing issues.
 0.1d/0.1.4; Centered the iframe, switched to a fully numerical versioning system.
 1.0.0; changed a bunch of stuff, mainly the iframe 
-
+1.1; Changed upload from an iframe to a Javascript pop-up uploader window. Removed the src folder, and put the CSS and JS on MunyCDN. Began work on a function to insert the uploaded image into the post
 == Upgrade Notice ==
-This plugin should not need to be updated with WordPress, as its functions are simple. Most updates will be addition of features.
+This plugin should not need to be updated with WordPress, as its functions are simple. Most updates will be addition of features and/or fixes.
 
 == Screenshots == 
 n/a
