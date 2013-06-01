@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
  Info for WordPress:
  ==============================================================================
@@ -42,4 +42,3 @@ padding-top: 60px; /* 60px to make the container go all the way to the bottom of
 }
 add_action('post-upload-ui', 'picBox_uploader');
 ?>
-
